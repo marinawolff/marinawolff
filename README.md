@@ -2,7 +2,7 @@
 
 - 😄 I'm @marinawolff! 
 - 👀 I’m interested in Web design & development and Front-end development.
-- 🌱 I’m currently improving my knowledge in JavaScript (React and Agile). 
+- 🌱 I’m currently improving my knowledge in JavaScript (React and Angular). 
 - 👯 I’m looking to collaborate on new projects related to Front-end development. 
 - 📫 How to reach me: marinajwolff@gmail.com.
 
